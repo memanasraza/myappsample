@@ -4,9 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-
+log.text
 # testing
 /coverage
+/ignored_folder
 
 # production
 /build
